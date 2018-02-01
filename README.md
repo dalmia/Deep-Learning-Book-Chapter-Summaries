@@ -28,6 +28,10 @@ This repository provides a summary for each chapter of the Deep Learning [book](
   - Chapter 19: Approximate Inference [[chapter](http://www.deeplearningbook.org/contents/inference.html)]
   - Chapter 20: Deep Generative Models [[chapter](http://www.deeplearningbook.org/contents/generative_models.html)]
   
+## Contributors
+- [Aman Dalmia](https://github.com/dalmia)
+- [Ameya Godbole](https://github.com/ameyagodbole)
+
 ## Contributing
 
 Please feel free to open a Pull Request to contribute a summary for the chapters 5, 6, 9 and 10 as we might not be able to cover them owing to other commitments.
