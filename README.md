@@ -34,7 +34,7 @@ This repository provides a summary for each chapter of the Deep Learning [book](
 
 ## Contributing
 
-Please feel free to open a Pull Request to contribute a summary for the chapters 5, 6, 9 and 10 as we might not be able to cover them owing to other commitments. Also, if you think there's any section that requires more/better explanation, please use the issue tracker to let us know about the same.
+Please feel free to open a Pull Request to contribute a summary for the chapters 5, 6 and 12 as we might not be able to cover them owing to other commitments. Also, if you think there's any section that requires more/better explanation, please use the issue tracker to let us know about the same.
 
 ## Support 
 
