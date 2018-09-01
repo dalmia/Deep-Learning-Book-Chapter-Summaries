@@ -1,5 +1,5 @@
 # Deep-Learning-Book-Chapter-Summaries
-This repository provides a summary for each chapter of the Deep Learning [book](http://deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville and attempts to explain some of the concepts in greater detail.
+This repository provides a summary for each chapter of the Deep Learning [book](http://deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville and attempts to explain some of the concepts in greater detail. Some of the tougher chapters have blog post(s) dedicated to them which can be found on http://medium.com/inveterate-learner.
 
 ## Chapters
 
